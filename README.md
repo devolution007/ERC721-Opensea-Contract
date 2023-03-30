@@ -19,4 +19,4 @@ The tutorial assumes you have some familiarity with coding, but are brand new to
 
 These tools are only some of the current community favorites so we will be using them to encourage best practices. There are many great alternatives to these tools that can also be used, and we are always open to feedback on better practices and improvements.
 
-As we dive into new concepts in this tutorial, we will review definitions that might be new to you coming into Web3 and offer guidance on how to provide the best user experience possible for users of your smart contract. By the end of the tutorial, you will have a deployed NFT contract on the Rinkeby network, a beautifully set up collection on OpenSea, and some NFTs within that collection ready to se
+As we dive into new concepts in this tutorial, we will review definitions that might be new to you coming into Web3 and offer guidance on how to provide the best user experience possible for users of your smart contract. By the end of the tutorial, you will have a deployed NFT contract on the Rinkeby network, a beautifully set up collection on OpenSea, and some NFTs within that collection ready to sell on OpenSea.
